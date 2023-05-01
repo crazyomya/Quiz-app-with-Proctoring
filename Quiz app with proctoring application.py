@@ -8,7 +8,7 @@ import threading
 import time
 import cv2
 
-sql_password = "hbdywi3x1o@8"
+sql_password = "password"
 database_name = "sysem1sdp"           #follow database naming rules for example no spaces and prefer creating a new database for proper working
 username = "root"                 
 

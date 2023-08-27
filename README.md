@@ -1,9 +1,33 @@
-# Quiz-app-with-Proctoring
-Quiz App is an app which provides a platform to conduct quizzes, MCQs test, survey, etc. With the use Tkinter library of python, Graphical User Interface is provided that gives ease of handling for the user. The app is programmed in such a way that it will allow an examiner to set the quiz or test with customized questions, options, timer, score. The Examiner can also add a student in database. The examinee is also proctored during the test and is warned when malpractice is detected. After 3 warnings the exam is terminated.
-Tkinter, datetime, OpenCV, Threading and os are few open source python libraries which are used in the project.
+# Quiz App with Proctoring
 
-Setup steps
- 1. Install MySQL 
- 2. Enter database details such as database name and password in the code
- 3. Install imported libraries
- 4. You're Good to go
+The Quiz App with Proctoring is a comprehensive application that offers a platform for conducting various types of assessments, including quizzes, MCQ tests, surveys, and more. Powered by the Tkinter library in Python, it provides a user-friendly graphical interface for ease of use.
+
+## Key Features
+
+- **Customized Quizzes**: Examiners can create quizzes or tests with tailored questions, options, timers, and scoring criteria.
+
+- **Student Database**: Examiners have the ability to add and manage students in the database.
+
+- **Proctoring**: The system includes proctoring capabilities to monitor examinees during tests. It issues warnings when malpractice is detected, with three warnings resulting in test termination.
+
+## Libraries Used
+
+The project utilizes various open-source Python libraries, including:
+
+- **Tkinter**: For creating the graphical user interface (GUI).
+- **Datetime**: For handling date and time functionalities.
+- **OpenCV**: For proctoring and monitoring examinees.
+- **Threading**: To manage concurrent processes.
+- **os**: For general operating system-related tasks.
+
+## Setup Steps
+
+1. **Install MySQL**: Ensure that MySQL is installed on your system.
+
+2. **Database Configuration**: Enter the database details, including the database name and password, in the code.
+
+3. **Install Imported Libraries**: Install the required libraries by running `pip install library_name` for each library mentioned.
+
+4. **You're Good to Go**: Once the above steps are completed, your Quiz App with Proctoring is ready to use.
+
+Feel free to customize this README further with specific installation instructions or additional details about your project.

@@ -9,6 +9,7 @@ The Quiz App with Proctoring is a comprehensive application that offers a platfo
 - **Student Database**: Examiners have the ability to add and manage students in the database.
 
 - **Proctoring**: The system includes proctoring capabilities to monitor examinees during tests. It issues warnings when malpractice is detected, with three warnings resulting in test termination.
+- **Auto-Generated**: Reports: After submission, the system automatically generates detailed reports for exam results and performance metrics.
 
 ## Libraries Used
 
